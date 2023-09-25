@@ -1,5 +1,5 @@
 # blockchain-data-download
-Downloads 364 pairs of USDT-related 5-minute data from Binance.
+Download 364 pairs of USDT-related 5-minute data from Binance.
 * Google Colab project capable of downloading USDT-related data to Google Drive.
 * Binance API: https://www.binance.com/en/binance-api
 * data src: https://data.binance.vision/?prefix=data/spot/daily/klines/
